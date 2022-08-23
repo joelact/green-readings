@@ -1,0 +1,8 @@
+/* pallete link https://colorhunt.co/palette/064635519259f0bb62f4eea9 */
+
+.container-to-center {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
